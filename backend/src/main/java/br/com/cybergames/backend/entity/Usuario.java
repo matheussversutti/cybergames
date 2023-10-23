@@ -23,6 +23,8 @@ public class Usuario {
     private Long id_usuario;
 
     private String nome_usuario;
+
+    
     private String cpf_usuario;
     private String email_usuario;
     
